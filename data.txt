@@ -1,0 +1,129 @@
+[Everyday Objects]
+cup|☕|A small container you drink from.|I drink water from my {word}.
+book|📖|Pages joined together for reading.|I read a {word} at bedtime.
+chair|🪑|A seat with a back.|I sit on a {word}.
+key|🔑|A small tool that opens a lock.|This {word} opens the door.
+clock|🕒|An object that shows the time.|The {word} shows three o'clock.
+bed|🛏️|A place to lie down and sleep.|I sleep in my {word}.
+shoe|👟|Something you wear on your foot.|I put a {word} on my foot.
+bag|🎒|A container used to carry things.|I carry my books in a {word}.
+ball|⚽|A round object used in games.|We kick the {word} across the grass.
+umbrella|☂️|Something held overhead to keep rain off.|My {word} keeps me dry in the rain.
+pencil|✏️|A tool used for writing or drawing.|I draw a flower with my {word}.
+scissors|✂️|A tool with two blades for cutting.|I cut paper with {word}.
+[Animals]
+cat|🐈|A small pet that meows.|The {word} meows softly.
+dog|🐕|A pet that barks.|The {word} barks at the gate.
+elephant|🐘|A large animal with a trunk.|The {word} sprays water with its trunk.
+giraffe|🦒|An animal with a very long neck.|The {word} reaches leaves high in a tree.
+monkey|🐒|An animal that often climbs trees.|The {word} climbs a branch.
+lion|🦁|A large wild cat; males often have manes.|The male {word} has a thick mane.
+rabbit|🐇|A small animal with long ears.|The {word} hops across the garden.
+turtle|🐢|An animal with a shell covering its body.|The {word} pulls its head into its shell.
+fish|🐟|An animal that lives in water and has gills.|The {word} swims in the pond.
+butterfly|🦋|An insect with broad, often colourful wings.|The {word} rests on a flower.
+bee|🐝|An insect that gathers nectar and pollen.|The {word} gathers nectar from flowers.
+duck|🦆|A water bird with a broad, flat bill.|The {word} paddles across the pond.
+[Food]
+apple|🍎|A round fruit that grows on trees.|I pick a red {word} from the tree.
+banana|🍌|A long fruit with a peel, often yellow.|I peel a {word} before eating it.
+carrot|🥕|A root vegetable, usually orange.|We pull a {word} from the soil.
+corn|🌽|A plant with rows of seeds on a cob.|We eat {word} from the cob.
+grapes|🍇|Small juicy fruits that grow in bunches.|A bunch of {word} grows on the vine.
+bread|🍞|A food made by baking dough.|We bake a loaf of {word}.
+cheese|🧀|A food made from milk.|I put a slice of {word} in my sandwich.
+egg|🥚|Food laid by a bird, with a shell.|We boil an {word} for breakfast.
+rice|🍚|Small grains often cooked and eaten as food.|We cook {word} to eat with our curry.
+milk|🥛|A liquid from mammals, often used as a drink.|A cow produces {word}.
+honey|🍯|A sweet food made by bees.|Bees make {word} from nectar.
+lemon|🍋|A yellow citrus fruit with a sour taste.|A {word} tastes sour.
+[Nature]
+sun|☀️|The star that gives Earth light and warmth.|The {word} gives us daylight.
+moon|🌙|The natural object that travels around Earth.|The {word} travels around Earth.
+star|⭐|A huge glowing ball of gas in space.|A {word} shines in the night sky.
+cloud|☁️|Tiny water drops or ice gathered in the sky.|A {word} floats across the sky.
+rain|🌧️|Water drops that fall from clouds.|The {word} makes the ground wet.
+snow|❄️|Soft ice crystals that fall from clouds.|White {word} covers the ground in winter.
+tree|🌳|A tall plant with a woody trunk.|A {word} has a trunk and branches.
+flower|🌼|The part of a plant that can make seeds.|The {word} opens its petals.
+leaf|🍃|A plant part that often makes food using sunlight.|A green {word} grows on the branch.
+mountain|⛰️|A very high area of land.|The {word} rises high above the valley.
+rainbow|🌈|An arc of colours made by light through drops.|We see a {word} after the rain.
+river|🏞️|A natural stream of water flowing across land.|The {word} flows through the valley.
+[Feelings]
+happy|😊|Feeling pleased or glad.|I feel {word} when I play with friends.
+sad|😢|Feeling unhappy.|I feel {word} when I miss a friend.
+angry|😠|Feeling upset about something unfair or unwanted.|I feel {word} when someone breaks my toy.
+tired|😴|Needing rest or sleep.|After a long day, I feel {word}.
+excited|🤩|Feeling very eager and happy about something.|I feel {word} about our class picnic.
+surprised|😮|Feeling something happened that you did not expect.|I was {word} by the unexpected gift.
+proud|🌟|Feeling pleased about something you or others did.|I feel {word} of my careful work.
+calm|🪷|Feeling peaceful and settled.|Slow breaths help me feel {word}.
+shy|🙈|Feeling uneasy about meeting or speaking to people.|I feel {word} when I meet new people.
+worried|😟|Feeling uneasy about what might happen.|I feel {word} that I might lose my bag.
+lonely|🧸|Feeling sad because you want company.|I feel {word} when I want a friend nearby.
+grateful|💛|Feeling thankful for kindness or help.|I feel {word} when someone helps me.
+[Action Words]
+run|🏃|Move quickly on your feet.|I {word} quickly along the path.
+jump|JUMP|Push off the ground and rise into the air.|I {word} over a small puddle.
+swim|🏊|Move through water using your body.|I {word} in the pool.
+read|📚|Look at written words and understand them.|I {word} a story before bed.
+write|✍️|Make letters or words on a surface.|I {word} my name on the paper.
+sing|🎤|Make musical sounds with your voice.|I {word} a song with my class.
+dance|💃|Move your body to a rhythm.|I {word} to the music.
+draw|🖍️|Make a picture with lines or marks.|I {word} a picture with crayons.
+clap|👏|Bring your hands together to make a sound.|I {word} my hands after the show.
+build|🧱|Make something by putting parts together.|I {word} a tower with blocks.
+carry|📦|Hold something while moving it somewhere.|I {word} the box to the table.
+plant|🌱|Put a seed or plant into soil to grow.|I {word} a seed in the garden.
+[Describing Words]
+bright|💡|Giving off or reflecting plenty of light.|The {word} lamp lights the room.
+soft|🧸|Easy to press or gentle to touch.|The cushion feels {word} under my head.
+round|⚪|Shaped like a circle or ball.|The plate is {word}, like a circle.
+smooth|🪨|Even to touch, without bumps.|The polished pebble feels {word}.
+rough|🪵|Uneven to touch, with bumps.|The bark feels {word} on my hand.
+sweet|🍯|Tasting like sugar.|Honey tastes {word}.
+sour|🍋|Having a sharp taste like a lemon.|Lemon juice tastes {word}.
+salty|🧂|Tasting of salt.|The crisps taste {word}.
+fresh|🥬|Newly made, picked, or gathered.|We eat {word} vegetables picked this morning.
+gentle|🪶|Kind or careful, without force.|Use a {word} touch with the tiny seedling.
+tidy|🧺|Neat, with things in their proper places.|My room is {word} when everything is put away.
+curly|➰|Having curves or twists.|Her {word} hair forms little loops.
+striped|🦓|Marked with long narrow bands.|A zebra has a {word} coat.
+spotted|🐆|Marked with small round patches.|The toy has a {word} pattern of dots.
+sticky|🍯|Likely to cling to things it touches.|The glue feels {word} on my fingers.
+clear|🪟|Easy to see through.|The {word} glass lets me see outside.
+[Opposites]
+hot|☀️|Having a high temperature.|The opposite of cold is {word}.
+cold|❄️|Having a low temperature.|The opposite of hot is {word}.
+big|🐘|Large in size.|The opposite of small is {word}.
+small|🐭|Little in size.|The opposite of big is {word}.
+fast|🐇|Moving at high speed.|The opposite of slow is {word}.
+slow|🐌|Moving at low speed.|The opposite of fast is {word}.
+open|📖|Not shut or closed.|The opposite of closed is {word}.
+closed|📕|Shut, rather than open.|The opposite of open is {word}.
+full|🥛|Containing as much as it can hold.|The opposite of empty is {word}.
+empty|🫙|Containing nothing.|The opposite of full is {word}.
+wet|💧|Covered with water or another liquid.|The opposite of dry is {word}.
+dry|☀️|Not wet.|The opposite of wet is {word}.
+near|📍|A short distance away.|The opposite of far is {word}.
+far|🏔️|A long distance away.|The opposite of near is {word}.
+day|🌞|The time when the sun is above the horizon.|The opposite of night is {word}.
+night|🌜|The time when the sun is below the horizon.|The opposite of day is {word}.
+[Places and Jobs]
+school|🏫|A place where children attend lessons with teachers.|We learn together at {word}.
+library|📚|A place where books can be read or borrowed.|We borrow books from the {word}.
+park|🌳|An open area for play, walks, and relaxation.|We play on the grass in the {word}.
+farm|🚜|A place where crops grow or animals are raised.|Crops grow on the {word}.
+bakery|🥖|A place that makes or sells baked foods.|We buy freshly baked bread at the {word}.
+market|🛒|A place where people buy and sell things.|People buy and sell fruit at the {word}.
+museum|🏛️|A place displaying interesting objects for people to learn.|We see old objects on display at the {word}.
+station|🚉|A place where trains stop for passengers.|We board the train at the {word}.
+doctor|🩺|A person trained to care for people's health.|A {word} checks our health when we are unwell.
+teacher|🧑‍🏫|A person who helps others learn.|Our {word} helps the class learn.
+farmer|🧑‍🌾|A person who grows crops or raises farm animals.|The {word} grows crops in a field.
+baker|🧑‍🍳|A person who makes bread and other baked foods.|The {word} makes loaves of bread.
+pilot|🧑‍✈️|A person trained to fly an aircraft.|The {word} flies the aeroplane.
+artist|🎨|A person who creates art.|The {word} paints pictures for a living.
+dentist|🦷|A person trained to care for teeth.|The {word} checks our teeth.
+nurse|🧑‍⚕️|A person trained to give care to patients.|The {word} cares for patients in the ward.
